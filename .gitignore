@@ -1,2 +1,5 @@
 # ignore .jar files
 *.jar
+
+# ignore .dll files
+*.dll
